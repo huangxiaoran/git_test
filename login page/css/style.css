@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+}
+.content{
+    width: 600px;
+    height: 1060px;
+    background-color: aqua;
+    background-image: url(/images/Shape\ 7\ copy.png);
+    margin: 0 auto;
+    position: relative;
+}
+.top{
+    width: 100%;
+    height: 49px;
+    /* background-color: blue; */
+    position: absolute;
+    top: 32px;
+    display: flex;
+    justify-content: space-around;
+}
+.return{
+    width: 49px;
+    height: 100%;
+    /* background-color: antiquewhite; */
+}
+.top_word{
+    width: 111px;
+    height: 32px;
+    /* background-color: brown; */
+    margin-top: 9px;
+    text-align: center;
+}
+.exclamation{
+    width: 49px;
+    height: 100%;
+    /* background-color: yellow; */
+}
+.icon-fanhui2{
+    color: white;
+    opacity: 0.3;
+}
+.top_word div{
+    font-size: 25px;
+    color: white;
+    opacity: 0.7;
+}
+.icon-tishishuoming{
+    color: white;
+    opacity: 0.3;
+}
+.photo{
+    width: 149px;
+    height: 149px;
+    /* background-color: brown; */
+    position: absolute;
+    top: 170px;
+    left: 231px;
+}
+.icon-tianjiatupian{
+    color: white;
+    opacity: 0.5;
+}
+.middle{
+    width: 443px;
+    height: 275px;
+    /* background-color: blueviolet; */
+    position: relative;
+    top: 358px;
+    left: 82px;
+    font-size: 26px;
+    color: white;
+}
+.middle input{
+    height: 25px;
+    line-height: 35px;
+    font-size: 20px;
+    color: white;
+    font-weight: lighter;
+    background-color: transparent;
+    border-style: hidden;
+}
+.middle a{
+    color:#3cffb5;
+    font-size: 23px;
+    text-decoration: none;
+}
+.button{
+    width: 442px;
+    height: 75px;
+    /* background-color: yellow; */
+    position: absolute;
+    bottom: 274px;
+    left: 82px;
+    text-align: center;
+    background-image: url(/images/Shape\ 12\ copy\ 2.png);
+}
+.button input{
+    font-size: 33px;
+    height: 75px;
+    width: 442px;
+    color:#6d6a9d;
+    background-color: transparent;
+    border-style: hidden;
+
+}
+.bottom{
+    width: 281px;
+    height: 22px;
+    /* background-color: brown; */
+    position: absolute;
+    bottom: 213px;
+    left: 163px;
+    text-align: center;
+}
+.bottom a{
+    color: #3cffb5;
+    text-decoration: none;
+}
+.bottom div{
+    color: white;
+    font-size: 20px;
+}
